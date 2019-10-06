@@ -28,4 +28,5 @@ A calculadora disponibiliza as funcionalidades abaixo:
   <li>Funções CA (Clear All) e CE (Clear Entry).</Li>.
   </ul>
   
-Jefferson A. Ruiz | <strong>jefferson.ruiz@outlook.com</strong> | 2019
+  ### Imagem
+  <img src="https://github.com/JeffersonARuiz/Calculadora-Javascript/blob/master/images/Calculadora.PNG" alt="Calculadora Javascript"/>
