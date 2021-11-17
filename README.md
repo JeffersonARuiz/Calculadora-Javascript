@@ -2,11 +2,15 @@
 Calculadora desenvolvida em HTML / CSS e Javascript.
 
 ### Autor
-@Description : Projeto de desenvolvimento de uma clculadora em JavaScript.
-@author Jefferson Alvarez Ruiz
-@e-mail: jefferson.ruiz@outlook.com
-@Description: Projeto Calculadora JavaScript. - Todo código está comentado possibilitando o entendimento/leitura, melhorias e customizações no código.
-@License: Gratuita, porém é necessário manter os créditos.
+**Description**: Projeto de desenvolvimento de uma clculadora em JavaScript.
+
+**Author**: Jefferson Alvarez Ruiz
+
+**e-mail**: jefferson.ruiz@outlook.com
+
+**Description**: Projeto Calculadora JavaScript. - Todo código está comentado possibilitando o entendimento/leitura, melhorias e customizações no código.
+
+**License**: Gratuita, porém é necessário manter os créditos.
 
 ### O Projeto 
 Projeto desenvolvido para prática de desenvolvimento com uso das ferramentas e tecnologias abaixo.
